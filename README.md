@@ -1,2 +1,0 @@
-# leonid
-Created with CodeSandbox
